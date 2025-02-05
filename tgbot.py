@@ -3,7 +3,7 @@ import os
 import subprocess
 
 # Вставьте сюда свой токен от BotFather
-BOT_TOKEN = "7594066050:AAGzFAyaI2xlgPqKRGFrbQUmI3k4t4g-h1I"
+BOT_TOKEN = ""
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Папка для сохранения видео
